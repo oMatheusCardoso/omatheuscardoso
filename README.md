@@ -1,4 +1,4 @@
-<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpva2JlbWwzYnA3em9qNXVxdnVheDFmeHdjd3Z6Y3llbjEzYnM1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"  />
+<img align="left" height="150" src="https://cdn.discordapp.com/attachments/1273186720849985536/1316177623327440986/Avatar_Sem_fundo.png?ex=675a196e&is=6758c7ee&hm=9e4d8a8f689fcc525f224cdf12d9b5d0893a56aa19c14e267658c2f0f3f1a6b5&"  />
 
 ###
 
