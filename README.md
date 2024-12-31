@@ -1,4 +1,4 @@
-<img align="left" height="150" src="https://cdn.discordapp.com/attachments/1273186720849985536/1316177623327440986/Avatar_Sem_fundo.png?ex=676899ee&is=6767486e&hm=9f07cff3097cdd8b34a637770005784c485820eaaa0582b59b5efe090ca23660&"  />
+<img align="left" height="150" src="https://github.com/user-attachments/assets/d1ca782a-cb7c-483f-9df7-7f45c8341bac"  />
 
 ###
 
