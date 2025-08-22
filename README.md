@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm from Rio de Janeiro, Brazil!<br><br>- 🔭 I’m looking working as dev python or ABAP.<br>- 📚 I'm currently learning python and ABAP.<br>- ⚡ In my free time ready the bible and I study</p>
+<p align="left">I'm from Rio de Janeiro, Brazil!<br><br>- 🔭 I’m looking working as dev python or ABAP.<br>- 📚 I'm currently learning python and ABAP.<br>- ⚡ In my free time ready the bible and I study.</p>
 
 ###
 
@@ -61,3 +61,8 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omatheuscardoso/omatheuscardoso/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omatheuscardoso/omatheuscardoso/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/omatheuscardoso/omatheuscardoso/output/pacman-contribution-graph.svg">
+</picture>
