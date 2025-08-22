@@ -6,16 +6,13 @@
   <a href="https://www.linkedin.com/in/omatheuscardoso/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/xTheeuz" target="_blank">
+  <a href="https://www.youtube.com/oMatheusCardoso" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://www.x.com/xTheeuz" target="_blank">
+  <a href="https://www.x.com/iMatheusCardoso" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://www.twitch.tv/xTheeuz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  </a>
-  <a href="https://www.instagram.com/xTheeuz" target="_blank">
+  <a href="https://www.instagram.com/oMatheuscardos" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
@@ -36,7 +33,7 @@
 
 ###
 
-<p align="left">I'm from Rio de Janeiro, Brazil!<br><br>- 🔭 I’m looking working as dev python.<br>- 📚 I'm currently learning python.<br>- ⚡ In my free time I study xD</p>
+<p align="left">I'm from Rio de Janeiro, Brazil!<br><br>- 🔭 I’m looking working as dev python or ABAP.<br>- 📚 I'm currently learning python and ABAP.<br>- ⚡ In my free time ready the bible and I study</p>
 
 ###
 
