@@ -57,14 +57,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://github.com/oMatheusCardoso/omatheuscardoso/blob/main/img/SAP-ABAP.png?raw=true" height="40" alt="logosap"  />
 </div>
 
-###
+### 📊 GitHub Stats  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omatheuscardoso/omatheuscardoso/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omatheuscardoso/omatheuscardoso/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/omatheuscardoso/omatheuscardoso/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=omatheuscardoso&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=omatheuscardoso&theme=tokyonight" alt="GitHub Streak" height="150" />
+
+</div>
+
+<div align="center">
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheuscardoso&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+
+</div>
 
 ###
