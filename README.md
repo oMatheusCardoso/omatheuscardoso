@@ -68,7 +68,7 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=omatheuscardoso&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
 
-    <!-- Most Used Languages -->
+  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheuscardoso&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 
  </div>
