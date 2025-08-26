@@ -4,16 +4,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/omatheuscardoso/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/oMatheusCardoso" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=9a46bTk3awwI&format=png&color=000000" height="50" alt="youtube logo"  />
-  </a>
-  <a href="https://www.x.com/iMatheusCardoso" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=yoQabS8l0qpr&format=png&color=000000" height="50" alt="x logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/oMatheuscardos" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="50" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.x.com/iMatheusCardoso" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/oMatheusCardoso" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
 
@@ -68,13 +68,17 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=omatheuscardoso&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
 
+    <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheuscardoso&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+
  </div>
 
 <div align="center">
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheuscardoso&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omatheuscardoso/omatheuscardoso/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omatheuscardoso/omatheuscardoso/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/omatheuscardoso/omatheuscardoso/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 ###
