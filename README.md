@@ -68,10 +68,7 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=omatheuscardoso&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
 
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=omatheuscardoso&theme=tokyonight" alt="GitHub Streak" height="150" />
-
-</div>
+ </div>
 
 <div align="center">
 
