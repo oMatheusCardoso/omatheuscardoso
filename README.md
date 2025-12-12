@@ -64,16 +64,6 @@
 ### 📊 GitHub Stats  
 
 <div align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=omatheuscardoso&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheuscardoso&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-
- </div>
-
-<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omatheuscardoso/omatheuscardoso/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omatheuscardoso/omatheuscardoso/output/github-contribution-grid-snake.svg" />
