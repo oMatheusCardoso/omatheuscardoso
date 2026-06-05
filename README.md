@@ -6,13 +6,13 @@
   <a href="https://www.linkedin.com/in/omatheuscardoso/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/oMatheuscardos" target="_blank">
+  <a href="https://www.instagram.com/1.MatheusCardoso" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.x.com/iMatheusCardoso" target="_blank">
     <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@oMatheusCardoso" target="_blank">
+  <a href="https://www.youtube.com/@1.MatheusCardoso" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
